@@ -1,6 +1,6 @@
 # Diagnosing Alzheimers Disease
 
-This repo contains the project that I completed as part of the final year of my computer science undergraduate course. While I still plan to develope this, I will do so in other repo's to preserve the state of this at the time of submission.
+This repo contains the project that I completed as part of the final year of my computer science undergraduate course. While I still plan to develop this, I will do so in other repo's to preserve the state of this at the time of submission.
 
 ## This project was:
 
